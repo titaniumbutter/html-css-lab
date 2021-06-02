@@ -1,0 +1,44 @@
+body {
+    background-color: lightgrey;
+    margin: 0 auto;
+}
+.box {
+    background-color: rgb(166, 98, 230);
+    height: 125px;
+    width: 125px;
+    margin: 10px 10px;
+    margin-left: 25px;
+}
+
+.box2 {
+    background-color: white;
+    height: 300px;
+}
+
+.box3 {
+    background-color: rgb(166, 98, 230);
+    height: 150px;
+}
+
+.box4 {
+    background-color: rgb(171, 195, 171);
+    height: 150px;
+}
+
+.box5 {
+    background-color: rgb(202, 243, 125);
+    height: 150px;
+}
+
+.box6 {
+    background-color: yellow;
+    height: 150px;
+}
+
+.text {
+    text-align: left;
+    margin-left: 700px;
+    font-family: Helvetica;
+    font-weight: normal;
+    color: rgb(44, 44, 44);
+}

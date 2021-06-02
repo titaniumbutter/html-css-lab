@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(211, 211, 212);
+    margin: 0 auto;
+}
+
+.header {
+    background-color: rgb(75, 74, 74);
+    width: 100%;
+    height: 250px;
+    margin: 0 auto;
+}
+
+.centerDiv {
+background-color: white;
+margin: auto;
+width: 85%;
+height: 875px;
+}
+
+.footer {
+background-color: black;
+margin: auto;
+width: 85%;
+height: 250px;
+}
